@@ -4,7 +4,7 @@ function Home() {
       <Card
         txtcolor="black"
         header="Welcome to The MERN Bank"
-        title="The Full-Stack Bank is here to help you solve your financial puzzle."
+        title="The Full-Stack Bank is here to help you with your financial needs."
         text="Through our web app, you can open an account, and then deposit and withdraw funds from your account."
         body={(
           <>

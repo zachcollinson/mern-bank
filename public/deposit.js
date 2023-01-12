@@ -57,7 +57,7 @@ function DepositForm(props) {
             props.setStatus(JSON.stringify(data.value));
             props.setShow(false);
             console.log('JSON:', data);
-        } catch(err) {
+        }catch(err) {
             props.setStatus('Deposit failed')
             console.log('err:', text);
         }
