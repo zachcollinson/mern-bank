@@ -19,8 +19,9 @@
     "lowdb": "^1.0.0",
     "mongodb": "^3.7.3",
     "nodemon": "^2.0.20",
-    "react": "^17.0.2",
+    "react": "^16.13.0",
     "react-bootstrap-table": "^4.3.1",
+    "react-dom": "^16.13.0",
     "react-router-dom": "^6.6.2"
   },
   "keywords": []
